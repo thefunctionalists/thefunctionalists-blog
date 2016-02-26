@@ -7,7 +7,7 @@ paginate = 10
 [params]
 
 	title = "The Functionalists - Blog"
-
+	Subtitle = "We write software that simply works"
 	# You can choose between green, orange, red and blue.
 	themeColor = "yellow"
 	# Enable Google Analytics be inserting your tracking code
@@ -16,8 +16,7 @@ paginate = 10
 	# To provide some metadata for search engines and the about section in the footer
 	# feel free to add a few information about you and your website.
 	name = "The Functionalists"
-	description = "Your description of the blog"
-	location = "thefunctionalists.com" # optional
+	description = "We write software that simply works"
 	twitter = "theflists" # optional
 	github = "thefunctionalists" # optional
 
